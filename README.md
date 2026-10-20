@@ -1,10 +1,10 @@
-# AI Digital Clutter Cleaner
+# ClutterAI - AI Digital Clutter Cleaner
 
 An AI-powered local-first document organizer that scans folders, extracts document contents, categorizes files, detects exact duplicates, discovers semantically similar documents, recommends a clean folder structure, and performs approved, reversible file operations.
 
 ## Project Overview
 
-The AI Digital Clutter Cleaner addresses the common problem of cluttered digital workspaces where Downloads and Documents folders contain hundreds of unorganized files with unclear names, duplicate files wasting disk space, and documents that contain nearly identical information despite having different filenames.
+ClutterAIaddresses the common problem of cluttered digital workspaces where Downloads and Documents folders contain hundreds of unorganized files with unclear names, duplicate files wasting disk space, and documents that contain nearly identical information despite having different filenames.
 
 The solution: Users select a folder, the application analyzes supported files, and an AI pipeline recommends categories, identifies duplicates, and suggests a cleaner folder structure—all while keeping the user in control of every file operation.
 
