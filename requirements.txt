@@ -1,0 +1,11 @@
+streamlit
+scikit-learn
+sentence-transformers
+numpy
+pandas
+pypdf
+python-docx
+pytest
+ruff
+datasets
+plotly
